@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600331373614</updated>
-      <workItem from="1600331378930" duration="1675000" />
+      <workItem from="1600331378930" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="增加了Swagger测试">
       <created>1600333038350</created>
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600333038350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加了Swagger测试">
+      <created>1600333311842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600333311842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加了Swagger测试">
+      <created>1600333335317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600333335317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,18 +115,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加了Swagger测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="145" y="0" key="CommitChangelistDialog2" timestamp="1600333033534">
+    <state x="145" y="0" key="CommitChangelistDialog2" timestamp="1600333332982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="145" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600333033534" />
+    <state x="145" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600333332982" />
     <state x="452" y="126" key="FileChooserDialogImpl" timestamp="1600332576056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600332576056" />
-    <state x="537" y="261" key="Github.ShareDialog" timestamp="1600333061180">
+    <state x="537" y="261" key="Github.ShareDialog" timestamp="1600333430956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="537" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600333061180" />
+    <state x="537" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600333430956" />
     <state x="173" y="16" key="SettingsEditor" timestamp="1600331851542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -125,9 +139,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600332014251" />
-    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1600332517356">
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1600333278878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1600332517356" />
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1600333278878" />
   </component>
 </project>
