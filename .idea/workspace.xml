@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7c8a8c-3014-4aee-9f7a-eada9b27582d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-dept-client-8001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-dept-client-8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/DeptProvide8001_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/DeptProvide8001_App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/contorller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/contorller/DeptController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-eureka-client-7001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-eureka-client-7001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/com/atguigu/springcloud/Config_Git_EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/com/atguigu/springcloud/Config_Git_EurekaServerApplication.class" afterDir="false" />
+    <list default="true" id="ad7c8a8c-3014-4aee-9f7a-eada9b27582d" name="Default Changelist" comment="增加了Swagger测试">
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-api/microservicecloud-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-3344/microservicecloud-config-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/microservicecloud-config-dept-client-8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/microservicecloud-config-eureka-client-7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-consumer-hystrix-dashboard/microservicecloud-consumer-hystrix-dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-eureka-7001/microservicecloud-eureka-7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-eureka-7002/microservicecloud-eureka-7002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-eureka-7003/microservicecloud-eureka-7003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-provider-dept-8002/microservicecloud-provider-dept-8002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-provider-dept-8003/microservicecloud-provider-dept-8003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-provider-dept-hystrix-8001/microservicecloud-provider-dept-hystrix-8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shb/swagger/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swagger-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +77,13 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -81,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600331373614</updated>
-      <workItem from="1600331378930" duration="2040000" />
+      <workItem from="1600331378930" duration="3113000" />
     </task>
     <task id="LOCAL-00001" summary="增加了Swagger测试">
       <created>1600333038350</created>
@@ -104,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600333335317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了Swagger测试">
+      <created>1600333453053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600333453053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +150,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加了Swagger测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="145" y="0" key="CommitChangelistDialog2" timestamp="1600333332982">
+    <state x="145" y="0" key="CommitChangelistDialog2" timestamp="1600333486905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="145" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600333332982" />
+    <state x="145" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600333486905" />
     <state x="452" y="126" key="FileChooserDialogImpl" timestamp="1600332576056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -127,14 +162,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="537" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600333430956" />
+    <state width="1306" height="395" key="GridCell.Tab.0.bottom" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.0.center" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.0.left" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.0.right" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.1.bottom" timestamp="1600334160560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600334160560" />
+    <state width="1306" height="395" key="GridCell.Tab.1.center" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.1.left" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
+    <state width="1306" height="395" key="GridCell.Tab.1.right" timestamp="1600334160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="395" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600334160559" />
     <state x="173" y="16" key="SettingsEditor" timestamp="1600331851542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="173" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600331851542" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600332675114">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600333464012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600332675114" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600333464012" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1600332014251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
