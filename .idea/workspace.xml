@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7c8a8c-3014-4aee-9f7a-eada9b27582d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-dept-client-8001/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-dept-client-8001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/DeptProvide8001_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/DeptProvide8001_App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/contorller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/contorller/DeptController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-eureka-client-7001/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.shb.springcloud/microservicecloud-config-eureka-client-7001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/com/atguigu/springcloud/Config_Git_EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservicecloud/microservicecloud-config-eureka-client-7001/target/classes/com/atguigu/springcloud/Config_Git_EurekaServerApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository-camel\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml_ali" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hdC2OdEwyzThLeETBKYHeH1zf0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SwaggerDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shb.swagger.SwaggerDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\songhaibo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7c8a8c-3014-4aee-9f7a-eada9b27582d" name="Default Changelist" comment="" />
+      <created>1600331373614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600331373614</updated>
+      <workItem from="1600331378930" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="126" key="FileChooserDialogImpl" timestamp="1600332576056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600332576056" />
+    <state x="537" y="261" key="Github.ShareDialog" timestamp="1600332612254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600332612254" />
+    <state x="173" y="16" key="SettingsEditor" timestamp="1600331851542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="173" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600331851542" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600332675114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600332675114" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1600332014251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600332014251" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1600332517356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1600332517356" />
+  </component>
+</project>
