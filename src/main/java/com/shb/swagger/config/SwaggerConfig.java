@@ -1,7 +1,13 @@
 package com.shb.swagger.config;
 
+import com.shb.swagger.controller.HelloController;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+import springfox.documentation.RequestHandler;
+import springfox.documentation.builders.PathSelectors;
+import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.service.ApiInfo;
 import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
@@ -22,7 +28,21 @@ public class SwaggerConfig {
     //配置了Swagger的bean实例
     @Bean
     public Docket docket() {
-        return new Docket(DocumentationType.SWAGGER_2).apiInfo(apiInfo());
+
+        return new Docket(DocumentationType.SWAGGER_2)
+                .apiInfo(apiInfo())
+                .enable(false)//enable():是否启动Swagger默认是true启动
+                .select()
+                //RequestHandlerSelectors，配置要扫描接口的方式
+                //basePackage:指定扫描的包，例如："com.shb.swagger.controller"
+                //any():扫描全部
+                //none():都不扫描
+                //withClassAnnotation():扫描类上注解，参数是注解的反射对象
+                //withMethodAnnotation():扫描方法上的注解
+                .apis(RequestHandlerSelectors.basePackage("com.shb.swagger.controller"))
+                //paths()。过滤什么路径
+                //.paths(PathSelectors.ant("/shb/**"))
+                .build();
     }
 
     //配置Swagger信息=apiinfo
